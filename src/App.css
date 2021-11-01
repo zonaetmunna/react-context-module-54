@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+ */
+
+ .gf{
+   background-color: bisque;
+   border: 1px solid black;
+ }
+
+ .gf-childern{
+   display: flex;
+ }
+
+ .father{
+   
+   background-color: blue;
+   
+ }
+
+ .father-children{
+   display: flex;
+ }
+ .myself{
+   background-color: blueviolet;
+   border: 1px solid black;
+   padding: 20px;
+   margin: 10px;
+ }
